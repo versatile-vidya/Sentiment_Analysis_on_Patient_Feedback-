@@ -1,0 +1,94 @@
+HCAHPS Answer Description,Sentiment Score,Sentiment Label
+"Nurses ""always"" communicated well",2,Postive
+"Nurses ""sometimes"" or ""never"" communicated well",0,Netural
+"Nurses ""usually"" communicated well",2,Postive
+Nurse communication - linear mean score,1,Postive
+Nurse communication - star rating,2,Postive
+"Nurses ""always"" treated them with courtesy and  respect",4,Postive
+"Nurses ""sometimes"" or ""never"" treated them with courtesy and  respect",2,Postive
+"Nurses ""usually""  treated them with courtesy and  respect",4,Postive
+"Nurses ""always"" listened carefully",2,Postive
+"Nurses ""sometimes"" or ""never"" listened carefully",0,Netural
+"Nurses ""usually"" listened carefully",2,Postive
+"Nurses ""always"" explained things so they could understand",3,Postive
+"Nurses ""sometimes"" or ""never"" explained things so they could understand",1,Postive
+"Nurses ""usually"" explained things so they could understand",3,Postive
+"Doctors ""always"" communicated well",2,Postive
+"Doctors ""sometimes"" or ""never"" communicated well",0,Netural
+"Doctors ""usually"" communicated well",2,Postive
+Doctor communication - linear mean score,0,Netural
+Doctor communication - star rating,1,Postive
+"Doctors ""always"" treated them with courtesy and  respect",4,Postive
+"Doctors ""sometimes"" or ""never"" treated them with courtesy and  respect",2,Postive
+"Doctors ""usually""  treated them with courtesy and  respect",4,Postive
+"Doctors ""always"" listened carefully",2,Postive
+"Doctors ""sometimes"" or ""never"" listened carefully",0,Netural
+"Doctors ""usually"" listened carefully",2,Postive
+"Doctors ""always"" explained things so they could understand",3,Postive
+"Doctors ""sometimes"" or ""never"" explained things so they could understand",1,Postive
+"Doctors ""usually"" explained things so they could understand",3,Postive
+"Patients ""always"" received help as soon as they wanted",5,Postive
+"Patients ""sometimes"" or ""never"" received help as soon as they wanted",3,Postive
+"Patients ""usually"" received help as soon as they wanted",5,Postive
+Staff responsiveness - linear mean score,0,Netural
+Staff responsiveness - star rating,1,Postive
+"Patients ""always"" received call button help as soon as they wanted",5,Postive
+"Patients ""sometimes"" or ""never"" received call button help as soon as they wanted",3,Postive
+"Patients ""usually"" received call button help as soon as they wanted",5,Postive
+"Patients ""always"" received bathroom help as soon as they wanted",5,Postive
+"Patients ""sometimes"" or ""never"" received bathroom help as soon as they wanted",3,Postive
+"Patients ""usually"" received bathroom help as soon as they wanted",5,Postive
+"Staff ""always"" explained",1,Postive
+"Staff ""sometimes"" or ""never"" explained",-1,Negative
+"Staff ""usually"" explained",1,Postive
+Communication about medicines - linear mean score,0,Netural
+Communication about medicines - star rating,1,Postive
+"Staff ""always"" explained new medications",2,Postive
+"Staff ""sometimes"" or ""never"" explained new medications",0,Netural
+"Staff ""usually"" explained new medications",2,Postive
+"Staff ""always"" explained possible side effects",2,Postive
+"Staff ""sometimes"" or ""never"" explained possible side effects",0,Netural
+"Staff ""usually"" explained possible side effects",2,Postive
+"No, staff ""did not"" give patients this information",-3,Negative
+"Yes, staff ""did"" give patients this information",2,Postive
+Discharge information - linear mean score,0,Netural
+Discharge information - star rating,1,Postive
+"No, staff ""did not"" give patients information about help after discharge",-2,Negative
+"Yes, staff ""did"" give patients information about help after discharge",3,Postive
+"No, staff ""did not"" give patients information about possible symptoms",-3,Negative
+"Yes, staff ""did"" give patients information about possible symptoms",2,Postive
+"Patients who ""Agree"" they understood their care when they left the hospital",4,Postive
+"Patients who ""Disagree"" or ""Strongly Disagree"" they understood their care when they left the hospital",2,Postive
+"Patients who ""Strongly Agree"" they understood their care when they left the hospital",5,Postive
+Care transition - linear mean score,1,Postive
+Care transition - star rating,2,Postive
+"Patients who ""Agree"" that staff took their preferences into account",1,Postive
+"Patients who ""Disagree"" or ""Strongly Disagree"" that staff took their preferences into account",-1,Negative
+"Patients who ""Strongly Agree"" that staff took their preferences into account",2,Postive
+"Patients who ""Agree"" they understood their responsiblities when they left the hospital",3,Postive
+"Patients who ""Disagree"" or ""Strongly Disagree"" they understood their responsiblities when they left the hospital",1,Postive
+"Patients who ""Strongly Agree"" they understood their responsiblities when they left the hospital",4,Postive
+"Patients who ""Agree"" they understood their medications when they left the hospital",3,Postive
+"Patients who ""Disagree"" or ""Strongly Disagree"" they understood their medications when they left the hospital",1,Postive
+"Patients who ""Strongly Agree"" they understood their medications when they left the hospital",4,Postive
+"Room was ""always"" clean",2,Postive
+"Room was ""sometimes"" or ""never"" clean",-2,Negative
+"Room was ""usually"" clean",2,Postive
+Cleanliness - linear mean score,1,Postive
+Cleanliness - star rating,2,Postive
+"""Always"" quiet at night",2,Postive
+"""Sometimes"" or ""never"" quiet at night",-2,Negative
+"""Usually"" quiet at night",2,Postive
+Quietness - linear mean score,1,Postive
+Quietness - star rating,2,Postive
+"Patients who gave a rating of ""6"" or lower (low)",-1,Negative
+"Patients who gave a rating of ""7"" or ""8"" (medium)",1,Postive
+"Patients who gave a rating of ""9"" or ""10"" (high)",2,Postive
+Overall hospital rating - linear mean score,0,Netural
+Overall hospital rating - star rating,1,Postive
+"""NO"", patients would not recommend the hospital (they probably would not or definitely would not recommend it)",-2,Negative
+"""YES"", patients would definitely recommend the hospital",4,Postive
+"""YES"", patients would probably recommend the hospital",4,Postive
+Recommend hospital - linear mean score,1,Postive
+Recommend hospital - star rating,2,Postive
+Summary star rating,2,Postive
